@@ -1,0 +1,25 @@
+{
+  "homepage": "https://guarded-sierra-75793.herokuapp.com/",
+  "name": "finalproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "develop": "concurrently \"cd server && npm run watch\" \"cd client && npm start\"",
+    "install": "cd server && npm i && cd ../client && npm i",
+    "seed": "cd server && npm run seed",
+    "build": "cd client && npm run build",
+    "predeploy": "npm run build",
+    "deploy": "cd client && gh-pages -d build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^5.3.0"
+  },
+  "dependencies": {
+    "gh-pages": "^3.2.3",
+    "react-router-dom": "^5.2.1"
+  }
+}

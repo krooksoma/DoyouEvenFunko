@@ -1,0 +1,37 @@
+[
+    {
+        "model" : "Happy",
+        "series" : "Fairy Tail",
+        "number" : 69,
+        "price" : 12.99,
+        "image" : "No Image yet"
+    },
+    {
+        "model" : "Ichigo",
+        "series" : "Shonen Jump - Bleach",
+        "number" : 59,
+        "price" : 59.90,
+        "image" : "No Image yet"
+    },
+    {
+        "model" : "Rukia",
+        "series" : "Shonen Jump - Bleach",
+        "number" : 60,
+        "price" : 39.90,
+        "image" : "No Image yet"
+    },
+    {
+        "model" : "Natsu",
+        "series" : "Fairy Tail",
+        "number" : 67,
+        "price" : 49.90,
+        "image" : "No Image yet"
+    },
+    {
+        "model" : "Lucy",
+        "series" : "Fairy Tail",
+        "number" : 68,
+        "price" : 109.90,
+        "image" : "No Image yet"
+    }
+]

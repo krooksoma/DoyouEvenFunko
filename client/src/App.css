@@ -1,0 +1,165 @@
+:root {
+  --base: #F2F2F2;
+  --base2: #ffe7cb;
+  --primary: #2f95d4;
+  --secondary: #a8ff44;
+  --tertiary: #f1c84b;
+  --complimentary: #f26444;
+  --complimentary2: #f2358d;
+}
+
+html{
+  background-color: var(--base);
+}
+
+body{
+  background-color: var(--base);
+}
+
+.App {
+  text-align: center;
+}
+
+.logout {
+  color: var(--complimentary) !important;
+}
+
+.login {
+  color: var(--complimentary) !important;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.background-image {
+  width: auto;
+  height: 60vh;
+  margin: 0 auto;
+  background-size: 100% 100%;
+  background-image: url("./img/background-2.jpg");
+  transition: all 1s;
+  background-repeat: no-repeat;
+}
+
+.custom-text {
+  color: var(--tertiary) !important;
+}
+
+.span-1 {
+  color: var(--complimentary);
+}
+
+.home-image {
+  height: 100%;
+  width: 80%;  
+  background-size: contain;
+  background-position: center;
+  background-image: url("./img/child2.png");
+  background-repeat: no-repeat;  
+}
+
+.home-image::after{
+  content: "";  
+  opacity: 0.5;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;
+}
+
+.home-header{
+  background-color: var(--base);
+  margin: 0 auto;
+}
+
+.card-group{
+  background-color: var(--base);
+}
+
+.form-background{
+  background-color: var(--base);
+}
+
+.broken-page{ 
+  width: auto;
+  height: 100vh;
+  margin: 0 auto;
+  background-size: 100% 100%;
+  background-size: 100% 100%;
+  background-image: url("./img/Background404.png");
+  transition: all 1s;
+  background-repeat: no-repeat;
+}
+
+.text-responsive {
+  font-size: calc(100% + 1vw + 1vh);  
+}
+
+.mk-container{
+  height: 60vh;
+  width: auto;
+}
+
+.mk-image {
+  height: 100%;
+  width: 80%;  
+  background-size: contain;
+  background-position: center;
+  background-image: url("./img/construction.png");
+  background-repeat: no-repeat;  
+}
+
+.mk-image::after{
+  content: "";  
+  opacity: 0.5;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;
+}
+
+.footer-text{
+  position: relative;
+  bottom: 0;  
+}
+
+.footer-link{
+  color: var(--complimentary) !important;
+  text-decoration: none !important;
+}
