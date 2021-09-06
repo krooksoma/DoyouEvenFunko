@@ -16,7 +16,7 @@
 [License](#license)
 [Questions](#questions)
     
-[Screenshot](./client/public/website.png)
+![Screenshot](./client/public/website.png)
 ## Description
     An application directed to the funko community. It aims to help them manage their collection, post items to sell on the marketplace and interact using the forum. .
 
