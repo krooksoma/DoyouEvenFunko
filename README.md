@@ -11,27 +11,30 @@
 [Description](#description)
 [Installation](#installation-instructions)
 [Usage Info](#usage-info)
-[contribution](#contribution)
+[Contribution](#contribution)
 [Testing Instructions](#test-instructions)
 [License](#license)
 [Questions](#questions)
     
 ![Screenshot](./client/public/website.png)
 ## Description
+    
     Full-stack solely developed application using in the Front-End REACT and Vanilla CSS, and 
     on the Back-End Javascript, Apollo, GraphQl, and MongoDB.
     An application directed to the funko community. It aims to help them manage their collection,
     post items to sell on the marketplace and interact using the forum. Some functionalities 
     are still being implemented but it will be up very soon.
 
+    This is the public available repository. The new implementations are in a particular repo.
+    
 ## Installation Instructions
     Not installation necessary.
 
 ## Usage info
-    Created you account, go to your dashboard and start enjoying it..
+    Created you account, go to your dashboard and start enjoying it.
 
 ## Contribution
-    contribution welcome upon request.
+    Contribution welcome upon request.
 
 ## Test Instructions
     undefined.    
