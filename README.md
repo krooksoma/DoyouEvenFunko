@@ -18,7 +18,9 @@
     
 ![Screenshot](./client/public/website.png)
 ## Description
-    An application directed to the funko community. It aims to help them manage their collection, post items to sell on the marketplace and interact using the forum. .
+    An application directed to the funko community. It aims to help them manage their collection,
+    post items to sell on the marketplace and interact using the forum. Some functionalities 
+    are still being implemented but it will be up very soon.
 
 ## Installation Instructions
     Not installation necessary.
