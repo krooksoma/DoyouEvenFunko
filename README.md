@@ -31,7 +31,10 @@
  * Javascript
  * Apollo.js
  * GraphQl
- * MongoDB   
+ * MongoDB  
+ * Mongoose 
+ * Node.js
+ * Express.js
     
 ## Installation Instructions
     Not installation necessary.
