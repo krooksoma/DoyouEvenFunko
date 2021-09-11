@@ -18,14 +18,19 @@
     
 ![Screenshot](./client/public/website.png)
 ## Description
-    
-    Full-stack solely developed application built using REACT, HTML, CSS, Javascript, Apollo, 
-    GraphQl, and MongoDB.
     An application directed to the funko community. It aims to help them manage their collection,
     post items to sell on the marketplace and interact using the forum. Some functionalities 
     are still being implemented but it will be up very soon.
 
-    This is the public available repository. The new implementations are in a particular repo.
+     This is the public available repository. The new implementations are in a particular repo.
+## Tools and Technologies
+ * REACT
+ * HTML
+ * CSS
+ * Javascript
+ * Apollo.js
+ * GraphQl
+ * MongoDB   
     
 ## Installation Instructions
     Not installation necessary.
