@@ -8,14 +8,14 @@
 
 ## Table of Contents
     
-[Description](#description)
-[Installation](#installation-instructions)
-[Usage Info](#usage-info)
-[Contribution](#contribution)
-[Testing Instructions](#test-instructions)
-[License](#license)
-[Questions](#questions)
-[Tools and Technologies](#tools-and-technologies)
+* [Description](#description)
+* [Installation](#installation-instructions)
+* [Usage Info](#usage-info)
+* [Contribution](#contribution)
+* [Testing Instructions](#test-instructions)
+* [License](#license)
+* [Questions](#questions)
+* [Tools and Technologies](#tools-and-technologies)
     
 ![Screenshot](./client/public/website.png)
 ## Description
