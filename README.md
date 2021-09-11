@@ -29,6 +29,7 @@
  * HTML
  * CSS
  * Javascript
+ * Bcrypt
  * Apollo.js
  * GraphQl
  * MongoDB  
