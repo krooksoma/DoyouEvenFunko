@@ -19,8 +19,8 @@
 ![Screenshot](./client/public/website.png)
 ## Description
     
-    Full-stack solely developed application using in the Front-End REACT and Vanilla CSS, and 
-    on the Back-End Javascript, Apollo, GraphQl, and MongoDB.
+    Full-stack solely developed application built using REACT, HTML, CSS, Javascript, Apollo, 
+    GraphQl, and MongoDB.
     An application directed to the funko community. It aims to help them manage their collection,
     post items to sell on the marketplace and interact using the forum. Some functionalities 
     are still being implemented but it will be up very soon.
@@ -31,7 +31,11 @@
     Not installation necessary.
 
 ## Usage info
-    Created you account, go to your dashboard and start enjoying it.
+    Once you open the application go to the login tab, select sign up, and enter your info 
+    after submiting your data you will be able to access your dashboard and start adding your
+    personal funko collection to it.
+    On the homepage you are able to click on the main image and see the latest releases from
+    the funko company. Below each item there is a link to the Funko's shop section.
 
 ## Contribution
     Contribution welcome upon request.
